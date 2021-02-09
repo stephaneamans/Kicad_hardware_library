@@ -3,15 +3,15 @@ EESchema-LIBRARY Version 2.4
 #
 # Resistor
 #
-DEF Resistor R 0 0 N Y 1 F N
+DEF Resistor R 0 0 Y N 1 F N
 F0 "R" 80 0 50 V V C CNN
 F1 "Resistor" 0 0 50 V V C CNN
 F2 "" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
-F4 "X" 80 0 50 V V C CNN "Spice_Primitive"
-F5 "resistor" 80 0 50 V V C CNN "Spice_Model"
+F4 "X" 80 0 50 V I C CNN "Spice_Primitive"
+F5 "resistor" 80 0 50 V I C CNN "Spice_Model"
 F6 "Y" 80 0 50 V V C CNN "Spice_Netlist_Enabled"
-F7 "/home/stephaneamans/dev/github_sa/kicad_hardware_library/components_library/spice_model/p_Passive/resistor.lib" 80 0 50 V V C CNN "Spice_Lib_File"
+F7 "/home/stephaneamans/dev/github_sa/kicad_hardware_library/components_library/spice_model/p_Passive/resistor.lib" -220 50 50 V I C CNN "Spice_Lib_File"
 $FPLIST
  R_*
 $ENDFPLIST
