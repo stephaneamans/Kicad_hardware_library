@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRS2301S
+F ${KI_PERSO_COMPLIB}/datasheets/p_Driver_IC/Infineon-IRS2301S-DataSheet-v01_00-EN.pdf
+$ENDCMP
+#
+#End Doc Library
