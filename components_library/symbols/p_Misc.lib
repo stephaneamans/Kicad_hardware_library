@@ -1,6 +1,20 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# Conn_1x2_solder_2.54
+#
+DEF Conn_1x2_solder_2.54 J 0 40 Y N 1 F N
+F0 "J" 50 200 50 H V C CNN
+F1 "Conn_1x2_solder_2.54" 50 -200 50 H V C CNN
+F2 "p_Package_Misc:Conn_THD_1x2_2.54_solder" -100 0 50 H I C CNN
+F3 "" -100 0 50 H I C CNN
+DRAW
+S 0 150 150 -150 0 1 0 N
+X 1 1 -100 50 100 R 50 50 1 1 P
+X 2 2 -100 -50 100 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # test_point
 #
 DEF test_point TP 0 40 Y Y 1 F N
