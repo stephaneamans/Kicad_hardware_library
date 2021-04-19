@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC848B
+F ${KI_PERSO_COMPLIB}/datasheets/p_Transistor_bipolar/BC848.pdf
+$ENDCMP
+#
+#End Doc Library
