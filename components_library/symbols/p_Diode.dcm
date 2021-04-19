@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BAT54SW
+F ${KI_PERSO_COMPLIB}/datasheets/p_Diode/BAT54SWT.pdf
+$ENDCMP
+#
 #End Doc Library
