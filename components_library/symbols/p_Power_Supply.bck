@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LDLN025M15R
+F ${KI_PERSO_COMPLIB}/datasheets/p_Power_Supply/LDLN025.pdf
+$ENDCMP
+#
+#End Doc Library
