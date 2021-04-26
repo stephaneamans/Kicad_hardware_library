@@ -12,4 +12,8 @@ $CMP LED_R
 D 2.4V 30mA
 $ENDCMP
 #
+$CMP LED_Y
+D 2V 30mA
+$ENDCMP
+#
 #End Doc Library
