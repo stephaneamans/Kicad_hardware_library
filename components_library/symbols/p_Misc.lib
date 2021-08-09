@@ -76,6 +76,7 @@ X 5 5 -100 -200 100 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+<<<<<<< HEAD
 # Conn_HE13_1x6_2.54H
 #
 DEF Conn_HE13_1x6_2.54H J 0 40 Y N 1 F N
@@ -112,6 +113,8 @@ X 6 6 0 -500 100 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+=======
+>>>>>>> 154284c... add HE13 2x10 2.54 connector
 # Conn_HE13_2x10_2.54V
 #
 DEF Conn_HE13_2x10_2.54V J 0 40 Y N 1 F N
