@@ -4,4 +4,8 @@ $CMP nRF24L01
 F ${KI_PERSO_COMPLIB}/datasheets/p_Modules/nRF24L01.pdf
 $ENDCMP
 #
+$CMP nRF24L01_PA_LNA
+F ${KI_PERSO_COMPLIB}/datasheets/p_Modules/nRF24L01.pdf
+$ENDCMP
+#
 #End Doc Library
