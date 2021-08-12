@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Amphenol_USB_C_3.1_10137062
+F ${KI_PERSO_COMPLIB}/datasheets/p_Misc/Amphenol_USB_C_3.1_10137062.pdf
+$ENDCMP
+#
 #End Doc Library
