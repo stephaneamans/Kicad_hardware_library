@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DAC121C085CIMM_NOPB
+F ${KI_PERSO_COMPLIB}/datasheets/p_ADC_DAC/dac121c085.pdf
+$ENDCMP
+#
 #End Doc Library
