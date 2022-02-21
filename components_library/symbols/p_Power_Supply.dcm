@@ -4,4 +4,8 @@ $CMP LDLN025M15R
 F ${KI_PERSO_COMPLIB}/datasheets/p_Power_Supply/LDLN025.pdf
 $ENDCMP
 #
+$CMP LM317MBSTT3G
+F ${KI_PERSO_COMPLIB}/datasheets/p_Power_Supply/LM317M.pdf
+$ENDCMP
+#
 #End Doc Library
