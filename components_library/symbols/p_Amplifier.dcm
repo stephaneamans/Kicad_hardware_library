@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP6H01
+F ${KI_PERSO_COMPLIB}/datasheets/p_Amplifier/MCP6H01.pdf
+$ENDCMP
+#
+#End Doc Library
