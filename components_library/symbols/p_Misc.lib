@@ -269,12 +269,25 @@ X Shield 6 -100 -400 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# test_point
+# test_point_smd
 #
-DEF test_point TP 0 40 Y Y 1 F N
+DEF test_point_smd TP 0 40 Y Y 1 F N
 F0 "TP" -50 100 50 H V C CNN
-F1 "test_point" -50 -100 50 H V C CNN
+F1 "test_point_smd" -50 -100 50 H V C CNN
 F2 "p_Package_Misc:TP_SMD_1.25mm" 0 -200 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C -50 0 50 0 1 0 N
+X TP 1 100 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# test_point_th
+#
+DEF test_point_th TP 0 40 Y Y 1 F N
+F0 "TP" -50 100 50 H V C CNN
+F1 "test_point_th" -50 -100 50 H V C CNN
+F2 "p_Package_Misc:TP_TH_2.54mm" 0 -200 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
 C -50 0 50 0 1 0 N
