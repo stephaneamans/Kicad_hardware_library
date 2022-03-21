@@ -12,4 +12,8 @@ $CMP MCP1804T-3302I_O
 F ${KI_PERSO_COMPLIB}/datasheets/p_Power_Supply/MCHPS05437-1.pdf
 $ENDCMP
 #
+$CMP REF193GSZ
+F ${KI_PERSO_COMPLIB}/datasheets/p_Power_Supply/REF19x.pdf
+$ENDCMP
+#
 #End Doc Library
