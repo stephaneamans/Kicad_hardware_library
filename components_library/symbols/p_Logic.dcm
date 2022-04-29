@@ -4,4 +4,8 @@ $CMP 74HC32
 D Quad OR gate
 $ENDCMP
 #
+$CMP 74HCT244
+F ${KI_PERSO_COMPLIB}/datasheets/p_Logic/74HC_HCT244.pdf
+$ENDCMP
+#
 #End Doc Library
