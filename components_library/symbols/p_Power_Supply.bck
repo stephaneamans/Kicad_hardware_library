@@ -16,8 +16,4 @@ $CMP REF193GSZ
 F ${KI_PERSO_COMPLIB}/datasheets/p_Power_Supply/REF19x.pdf
 $ENDCMP
 #
-$CMP TPS54332
-F ${KI_PERSO_COMPLIB}/datasheets/p_Power_Supply/TPS54332.pdf
-$ENDCMP
-#
 #End Doc Library
