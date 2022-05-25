@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAT54SW
+F ${KI_PERSO_COMPLIB}/datasheets/p_Diode/BAT54SWT.pdf
+$ENDCMP
+#
+$CMP LED_G
+D 2.4V 30mA
+$ENDCMP
+#
+$CMP LED_R
+D 2.4V 30mA
+$ENDCMP
+#
+$CMP LED_Y
+D 2V 30mA
+$ENDCMP
+#
+#End Doc Library
