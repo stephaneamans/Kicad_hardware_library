@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TCA9538
+D 8 IO I2C expander
+$ENDCMP
+#
+#End Doc Library

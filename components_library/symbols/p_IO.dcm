@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TCA9538
+D 8 IO I2C expander
+F ${KI_PERSO_COMPLIB}/datasheets/p_IO/tca9538.pdf
+$ENDCMP
+#
+#End Doc Library
