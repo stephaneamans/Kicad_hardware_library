@@ -8,4 +8,8 @@ $CMP MCP6H01
 F ${KI_PERSO_COMPLIB}/datasheets/p_Amplifier/MCP6H01.pdf
 $ENDCMP
 #
+$CMP MCP6N11-001E_SN
+F ${KI_PERSO_COMPLIB}/datasheets/p_Amplifier/MCP6N11.pdf
+$ENDCMP
+#
 #End Doc Library
